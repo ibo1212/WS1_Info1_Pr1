@@ -11,7 +11,8 @@
 
       //  printf("Foo");
 
-        return c;
+       // return c;
+        return 0;
     }
 
 
